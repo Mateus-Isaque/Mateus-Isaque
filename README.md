@@ -12,6 +12,8 @@ O que estou estudando atualmente:
 Objetivo
 Desenvolver minhas habilidades técnicas, aprender na prática e crescer profissionalmente na área de tecnologia, contribuindo com soluções simples e eficientes.
 
+Linkedin: www.linkedin.com/in/mateus-isaque-683309302
+
 Este perfil será atualizado conforme minha evolução na programação.
 
 <!--
